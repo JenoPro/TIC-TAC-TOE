@@ -4,7 +4,4 @@
 ![Tic-Tac-Toe](https://github.com/user-attachments/assets/0da9ba00-5482-4298-9be4-a76f9f9de959) 
 
 
-First image in here you can choose between single player and multi player
-Second image in single player you can choose a lvl AI with easy, medium, hard that you will fight
-third image in multi player you can play it with your friends
-last image here is the actual game
+First image in here you can choose between single player and multi player, Second image in single player you can choose a lvl AI with easy, medium, hard that you will fight, third image in multi player you can play it with your friends, last image here is the actual game
